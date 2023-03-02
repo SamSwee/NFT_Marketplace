@@ -8,3 +8,4 @@
 7. Then upload this metadata file onto Pinata as well and get their sharable link. You will need to fill it in the param key for the data object in App.js (lines 47 to 64). 
 
 This NFT marketplace was created using the tutorial by Metaschool.
+![image](https://user-images.githubusercontent.com/12713419/222471737-5cdf8d00-aab4-4e82-9c38-04c955b6fd7f.png)
